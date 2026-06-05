@@ -1,0 +1,38 @@
+h1{
+   background-color:red;
+   padding:25px;
+   border:solid;
+   border-radius:25px;
+   color:purple;
+   text-align:center;
+{
+	
+div{
+    widht:200px;
+	height:100px;
+	background-color:blue;
+	border:5px gray;
+	margin:2px;
+	padding:20px;
+	border-radius:32px;
+}
+
+p{
+  border:solid;
+  width:200px;
+  height:150px;
+  border-radius:20px;
+  text-align:center; 
+  
+}
+
+#uno{
+    background-color:purple;
+}
+
+#dos{
+    background-color:green;
+}
+
+
+	
